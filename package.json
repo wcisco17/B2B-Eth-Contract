@@ -1,0 +1,9 @@
+{
+  "name": "b2b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.0.0"
+  }
+}
